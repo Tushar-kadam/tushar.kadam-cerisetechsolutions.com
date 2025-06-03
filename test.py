@@ -13,7 +13,7 @@ def main():
 
     print("\nLet's do a simple addition.")
     try:
-        num1 = int(input("Enter first number: "))
+        num1 = int(input("Enter Third number: "))
         num2 = int(input("Enter second number: "))
         result = add(num1, num2)
         print(f"The result of {num1} + {num2} is {result}")
