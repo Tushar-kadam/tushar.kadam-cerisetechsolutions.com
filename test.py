@@ -7,7 +7,7 @@ def add(a, b):
     return a + b
 
 def main():
-    print("Welcome to the Dummy Project!")
+    print("Welcome to the Dummy Projects!")
     name = input("Enter your name: ")
     greet_user(name)
 
