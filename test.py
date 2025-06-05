@@ -11,7 +11,7 @@ def main():
     name = input("Enter your name: ")
     greet_user(name)
 
-    print("\nLet's do a simple addition.")
+    print("\nLet's do a simple additions.")
     try:
         num1 = int(input("Enter Third number: "))
         num2 = int(input("Enter second number: "))
